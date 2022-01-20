@@ -172,6 +172,7 @@ function partialUsingArguments(/* fn, ...args1 */) {
  *   getId10() => 11
  */
 function getIdGeneratorFunction(/* startFrom */) {
+  // return
   throw new Error('Not implemented');
 }
 
